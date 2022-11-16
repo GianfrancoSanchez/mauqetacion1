@@ -29,7 +29,7 @@
 		<img src="images/slider1.jpg">
 		<section class="presentacion">
 			<h1>Proyecto de Adopción de Mascotas</h1>
-			<div class="boton"><button>Adoptamos</button></div>
+			<div class="boton"><button>Adoptanos</button></div>
 		</section>
 	</section>
 	<section class="titulo">
@@ -82,7 +82,7 @@
 		<a href="internals/calcular.php" class="botonCalculo">Calculadora</a>
 	</section>
 	<figure class="anuncio2">
-		<img src="images/fatdog.png" alt="Perro">
+		<img src="images/dog3.png" alt="Perro">
 	</figure>
 	
 	<section class="doctores">
